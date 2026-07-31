@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovaPruebaTecnica</string>
+    <string name="listadepagos">Lista de pagos</string>
+    <string name="crearPago">Crear Pago</string>
+    //Detalle Pago
+    <string name="detallePago">Detalle del pago</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="imprimir">Imprimir</string>
+    <string name="comprobante_pago">"Comprobante pago"</string>
+    <string name="Volver_a_nuestros_pagos">Volver a nuestros pagos</string>
+
+</resources>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "636515792046",
+    "firebase_url": "https://movapi-fd91e-default-rtdb.firebaseio.com",
+    "project_id": "movapi-fd91e",
+    "storage_bucket": "movapi-fd91e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636515792046:android:44603918d9cf4de092693f",
+        "android_client_info": {
+          "package_name": "com.example.movapruebatecnica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0j6OpYWRLI9b9G9XWdhp3-bM_lA5lG_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636515792046:android:47fed466b62b76f992693f",
+        "android_client_info": {
+          "package_name": "com.mova.movapruebatecnica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0j6OpYWRLI9b9G9XWdhp3-bM_lA5lG_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
